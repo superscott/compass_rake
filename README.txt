@@ -17,6 +17,7 @@ Compass Rake is a simple tool that can allow anybody to start using Compass for 
 
 3.) Run 'rake compass:setup'
   a.) This will install the bundler gem, and then run bundle install to get the compass gem.
+  b.) Note: You only need to do this once, the first time you download the tool.
 
 
 4.) Place all the images in the /images folder.
