@@ -28,7 +28,7 @@ Compass Rake is a simple tool that can allow anybody to start using Compass for 
 
 
 6.) Copy and Paste
-  a.) move spite_icons.css, and the sprite_icons.png file into your project.
+  a.) move sprite_icons.css, and the sprite_icons.png file into your project.
 
 
 7.) You're done, now celebrate: https://www.youtube.com/watch?v=x8apI6x2Qyg
