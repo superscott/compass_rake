@@ -6,7 +6,7 @@ Compass Rake is a simple tool that can allow anybody to start using Compass for 
 
 ##### 1.) Install Ruby.
   a.) Windows: http://rubyinstaller.org/
-    i.) Make sure when you install Ruby, you select the option to "Add Ruby Executables to your PATH"
+  ---i.) Make sure when you install Ruby, you select the option to "Add Ruby Executables to your PATH"
 
   b.) Mac: As of 10.9 Mavericks, Ruby-2.0.x comes preinstalled, so you shouldnt need to do anything.
 
