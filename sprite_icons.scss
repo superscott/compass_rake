@@ -1,0 +1,8 @@
+@import "compass";
+
+/* http://compass-style.org/help/tutorials/spriting/sprite-layouts/ */
+$mysprite-layout:smart;
+
+@import "images/*.png";
+
+@include all-images-sprites;
